@@ -410,7 +410,7 @@ function detectOTP(text) {
 
 const COUNTRY_CODES = {
 
-  62:"Indonesia 🇮🇩",60:"Malaysia 🇲🇾",65:"Singapore 🇸🇬",91:"India 🇮🇳",84:"Vietnam 🇻🇳",269:"Comoros 🇰🇲"
+  62:"Indonesia 🇮🇩",60:"Malaysia 🇲🇾",65:"Singapore 🇸🇬",91:"India 🇮🇳",84:"Vietnam 🇻🇳",269:"Comoros 🇰🇲",
 
   55:"Brazil 🇧🇷",1:"USA 🇺🇸",44:"UK 🇬🇧",33:"France 🇫🇷",49:"Germany 🇩🇪",977:"Nepal 🇳🇵",58:"Venezuela 🇻🇪",93:"Afghanistan 🇦🇫",
 
