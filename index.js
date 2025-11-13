@@ -42,9 +42,9 @@ chromium.use(stealth);
 
 // ========== CONFIG ==========
 
-const TELEGRAM_TOKEN = "8435061:AAFXw7VjAqk8GD3iUGDeM38t2bsJJzQxj5Q";
+const TELEGRAM_TOKEN = "8264966184:AAG12JimHUHU6ACH_miVMxXU0_myvmvCTDM";
 
-const TELEGRAM_CHAT_ID = "-1003200533486";
+const TELEGRAM_CHAT_ID = "-1003171100676";
 
 const BASE_URL = "https://imssms.org/client";
 
