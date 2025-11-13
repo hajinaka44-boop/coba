@@ -410,11 +410,11 @@ function detectOTP(text) {
 
 const COUNTRY_CODES = {
 
-  62:"Indonesia 🇮🇩",60:"Malaysia 🇲🇾",65:"Singapore 🇸🇬",91:"India 🇮🇳",84:"Vietnam 🇻🇳",
+  62:"Indonesia 🇮🇩",60:"Malaysia 🇲🇾",65:"Singapore 🇸🇬",91:"India 🇮🇳",84:"Vietnam 🇻🇳",269:"Comoros 🇰🇲"
 
-  55:"Brazil 🇧🇷",1:"USA 🇺🇸",44:"UK 🇬🇧",33:"France 🇫🇷",49:"Germany 🇩🇪",977:"Nepal 🇳🇵",
+  55:"Brazil 🇧🇷",1:"USA 🇺🇸",44:"UK 🇬🇧",33:"France 🇫🇷",49:"Germany 🇩🇪",977:"Nepal 🇳🇵",58:"Venezuela 🇻🇪",93:"Afghanistan 🇦🇫",
 
-  7:"Russia 🇷🇺",92:"Pakistan 🇵🇰",234:"Nigeria 🇳🇬",254:"Kenya 🇰🇪",213:"Algeria 🇩🇿",249:"Sudan 🇸🇩",20:"Egypt 🇪🇬",972:"Isriwil 💩"
+  7:"Russia 🇷🇺",92:"Pakistan 🇵🇰",234:"Nigeria 🇳🇬",254:"Kenya 🇰🇪",213:"Algeria 🇩🇿",249:"Sudan 🇸🇩",20:"Egypt 🇪🇬",972:"Isriwil 🇮🇱💩"
 
 };
 
